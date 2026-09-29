@@ -6,7 +6,7 @@ display_name_en: Socratic Questioner
 description: This skill should be used when the user wants to be guided to an answer instead of told it — including phrases like "别告诉我答案", "引导我想", "我自己想明白", "问我几个问题", "帮我捋一捋", "socratic", "don't give me the answer", "help me think it through". It responds with questions only, never with solutions.
 description_en: This skill should be used when the user wants to be guided to an answer instead of told it — including phrases like "don't tell me the answer", "guide me to think", "I want to figure it out myself", "ask me some questions", "help me think it through", "socratic questioning". It responds with questions only, never with solutions.
 description_zh: 当用户希望被引导而不是被告知答案时使用，包括「别告诉我答案」「引导我想」「我自己想明白」「问我几个问题」「帮我捋一捋但别给答案」等表达。本技能只提问，不给答案。
-version: "1.0.0"
+version: "1.0.1"
 category: 知识与学习
 agent_created: true
 ---
